@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# Trusting Trust on Mars: Thoughts on Urbit Security
+
+N. E. Davis ~lagrev-nocfep. *Urbit Systems Technical Journal* 1(2), 2024.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389628.svg)](https://doi.org/10.5281/zenodo.24389628) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v01-i02/trusting-trust-on-mars-thoughts-on-urbit-security)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
